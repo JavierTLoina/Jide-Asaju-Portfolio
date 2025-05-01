@@ -1,0 +1,5464 @@
+/*1700*/
+@media (max-width: 1700px){
+    .about-me-p{
+        color: #868e96;
+        font-size: 1.5rem;
+        line-height: 1.3;
+        margin-left: 20rem;
+        margin-right: 20rem;
+    }
+}
+
+
+/*1600*/
+@media (max-width: 1600px){
+    .about-me-p{
+        color: #868e96;
+        font-size: 1.5rem;
+        line-height: 1.3;
+        margin-left: 20rem;
+        margin-right: 20rem;
+    }
+}
+
+/*1500px*/
+@media (max-width: 1500px){ 
+    .projects-books-section2 .books-section-p-about{
+        font-size: 4rem
+    }
+    
+    .projects-books-section1 .books-section-p-about{
+        font-size: 4rem
+    }
+
+    .projects-books-section3 .books-section-p-about{
+        font-size: 4rem
+    }
+
+    .projects-books-section4 .books-section-p-about{
+        font-size: 4rem
+    }
+
+    .projects-books-section5 .books-section-p-about{
+        font-size: 4rem
+    }
+
+    .books-section1 .books-section-p-about{
+        font-size: 4rem
+    }
+
+    .container{
+       width: 100%
+    }
+
+    .about-me-h1{
+        text-align: center;
+        font-size: 5rem;
+    }
+
+    .project-1-title{
+        font-size: 3.5rem;
+    }
+
+    .colaborating-p{
+        font-size: 1.9rem;
+        margin-right: 20rem
+    }
+
+    .project-1-p{
+        font-size: 1.9rem;
+        margin-right: 20rem
+    }
+
+    .about-me-p{
+        color: #868e96;
+        font-size: 1.5rem;
+        line-height: 1.3;
+        margin-left: 20rem;
+        margin-right: 20rem;
+    }
+
+    .section-title{
+        font-size: 5.5rem;
+    }
+  
+    section .section-card1{
+        margin: 1rem;
+        height: 50rem;
+    }
+
+    .card-p{
+        font-size: 1.3rem;
+    }
+
+    .section-img1{
+        width: 100%;
+        height: 60%;
+        object-fit: cover;
+    }
+
+    
+    section .section-card2{
+        margin: 1rem;
+        height: 50rem;
+    }
+
+    .card-p2{
+        font-size: 1.3rem;
+    }
+
+    .section-img2{
+        width: 100%;
+        height: 60%;
+        object-fit: cover;
+    }
+
+    
+}
+
+
+/*1400px*/
+@media (max-width: 1400px){
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .contact-icon{
+        display: none;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(174%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+}
+}
+
+/*1380*/
+@media (max-width: 1380px){
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(168%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+
+
+}
+
+/*1354*/
+@media (max-width: 1354px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.8%;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(218%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    }
+
+/*1340*/
+@media (max-width: 1340px){
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(161%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1320*/
+@media (max-width: 1320px){
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(158%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1300*//*ABOUT QUERIE*/
+@media (max-width: 1300px){  
+    .about-header h2{
+        color: #00b3ff;
+        font-size: 9.2rem;
+        text-align: center;
+        width: 100%
+    }
+
+    .perfil-img-about{
+        width: 42rem;
+        height: 42rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease
+    }
+
+    .about-me-p{
+        color: #868e96;
+        font-size: 1.5rem;
+        line-height: 1.3;
+        margin-left: 5rem;
+        margin-right: 5rem;
+        margin-top: 2rem;
+        margin-bottom: 10rem/*MARGIN*/;
+        text-align: center;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+        padding: 1.5rem;
+        border-radius: 1rem
+    }
+
+    .books-section-p-about{
+        font-size: 3.1rem;
+        font-weight: 700;
+        color: #fff
+    }
+
+    .certifications-grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-content: center;
+        padding-left: 15rem;
+        padding-right: 15rem;
+        column-gap: 3rem;
+    }
+
+    .certification-card-3-box{
+        width: 100%;
+        display: flex;
+        justify-content: center; 
+        align-items: center;      
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .certifications-grid-4{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-content: center;
+        padding-left: 15rem;
+        padding-right: 15rem;
+        column-gap: 3rem;
+    }
+
+    .certification-card-4 h3{
+        font-size: 3rem;
+        color: #495057
+    }
+
+    .recognitions-section{
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
+        padding: 1cqb;
+        border-radius: 2rem;
+        text-align: left;
+        text-align: center;
+        background-color: #2068ab;
+    }
+
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(156%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1294*/
+@media (max-width: 1294px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.8%;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(204%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    }
+
+/*1290*/
+@media (max-width: 1290px){
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(151%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1274*/
+@media (max-width: 1274px){
+    .projects-books-section1{
+        object-fit: cover;
+        background-size: cover;
+        background-position: -5rem;
+        overflow: hidden;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.8%;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(202%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    }
+
+
+
+
+/*1260*/
+@media (max-width: 1260px){
+    .container{
+        width: 100%
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(145%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+
+.books-section1 .books-section-p-about{
+    font-size: 3.5rem;
+}
+
+}
+
+/*1240px*/
+@media (max-width: 1240px){
+    .container{
+        width: 100%
+     }
+
+    header .header-text-box{
+        font-size: 5rem;
+        text-align: center;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+    }
+
+    .perfil-img{
+        width: 40rem;
+        height: 40rem;
+    }
+
+    .btn{
+        transform: translateY(-50%);
+    }
+
+    body.fondo-oscuro #btn {
+        transform: translate(90%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+        transform: translate(-8%, -50%);
+    }
+
+    section .section-card1{
+        margin: 1rem;
+        height: 50rem;
+    }
+
+    .section-img1{
+        width: 100%;
+        height: 50%;
+        object-fit: cover;
+    }
+
+    section .section-card2{
+        margin: 1rem;
+        height: 50rem;
+    }
+
+    .section-img2{
+        width: 100%;
+        height: 50%;
+        object-fit: cover;
+    }
+
+    .lets-connect-text{
+        margin-top: 5rem
+    }
+
+    .connect-section-text ul{
+        list-style: none;
+        line-height: 1.7;
+        font-size: 1.2rem;
+    }
+
+    .connect-section-text p{
+        font-size: 2rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.1%;
+        max-width: 5%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(145%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1210*/
+@media (max-width: 1210px){
+    .container{
+        width: 100%
+     }
+
+     .certifications-grid{
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 4rem;
+        justify-content: center;
+        padding-top: 5rem;
+        padding-bottom: 3rem;
+        padding-left: 15rem;
+        padding-right: 15rem;
+    }
+
+    .projects-books-section1{
+        object-fit: cover;
+        background-size: cover;
+        background-position: -8rem;
+        overflow: hidden;
+    }
+}
+
+
+/*1205*/
+@media (max-width: 1205px){
+    .contact-header .header-text-box h2{
+        font-size: 9rem
+    }
+
+    .btn-h1-box{
+        padding-left: 3rem
+    }
+
+    .contact-card1 h3{
+        font-size: 2.2rem;
+    }
+
+    .contact-card1 li{
+        font-size: 1.8rem;
+    }
+
+    .contact-card2-flex h3{
+        font-size: 2.2rem
+    }
+
+    .contact-card2-flex p{
+        font-size: 1.6rem;
+    }
+
+    .contact-card3-flex h3{
+        font-size: 2.2rem
+    }
+
+    .contact-card3-flex p{
+        font-size: 1.6rem;
+    }
+
+    .projects-icon{
+        width: 3.5rem;
+        height: 3.5rem;
+        stroke:#212529
+    }
+    
+    .projects-flex-icons{
+        line-height: 3;
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .contact-card4-flex h3{
+        font-size: 2.2rem
+    }
+
+    .contact-card4-flex p{
+        font-size: 1.6rem;
+    }
+
+    .contact-card5-flex h3{
+        font-size: 2.2rem
+    }
+
+    .contact-card5-flex p{
+        font-size: 1.6rem;
+    }
+
+    .lets-connect-text{
+        font-size: 3.7rem
+    }
+
+    .container{
+     margin-right: 20rem;
+     width: 100%
+     }
+
+     
+    .project-1-p{
+        font-size: 1.9rem;
+        margin-right: 10rem
+    }
+
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(135%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1200px*/
+@media (max-width: 1200px){
+    .project-1-box{
+        padding: 5rem
+    }
+
+    .project-1-title{
+        font-size: 3.7rem
+    }
+
+    .project-1-p{
+        font-size: 1.8rem;
+        list-style: none;
+    }
+
+    .project-2-p{
+        font-size: 1.8rem;
+    }
+
+    
+    .project-1-features-title{
+        font-size: 3.2rem;
+        margin-top: 5rem
+    }
+
+    .about-me-h1{
+        font-size: 3.8rem;
+    }
+
+    .published-section-title{
+        font-size: 3.8rem
+    }
+
+    .project-4-title{
+        font-size: 2.5rem;
+        color: #343a40
+    }
+
+    .project-4-title2{
+        font-size: 2.7rem;
+    }
+
+    .project-4-list{
+        font-size: 2rem;
+    }
+
+    .project-5-title{
+        font-size: 3.5rem;
+        color: #343a40
+    }
+
+    .project-5-list{
+        font-size: 2rem;
+    }
+
+    .project-5-list-p{
+        font-size: 1.8rem;
+    }
+
+    .project-list-box{
+        padding-top: 2rem;
+        padding-left: 3rem;
+        padding-right: 3rem
+    }
+
+    .collaborating-title{
+        font-size: 3.5rem
+    }
+
+    .collaborating1-h3{
+        font-size: 2.7rem;
+    }
+
+    .colaborating-p{
+        font-size: 1.8rem;
+    }
+    
+    .colaborating-h2{
+        font-size: 2.7rem;
+        padding-left: 2rem;
+        padding-bottom: 0
+    }
+
+    .collaborating-h3{
+        font-size: 2.7rem
+    }
+
+    .project-1-title{
+        font-size: 3.3rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .recognitions-section-2{
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
+        padding: 1.5rem;
+        border-radius: 2rem;
+        text-align: left;
+        text-align: center;
+    }
+
+    .button-recognitions-box{
+        display: flex;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .recognitions-section{
+            box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
+            padding: 1rem;
+            border-radius: 2rem;
+            text-align: left;
+            margin-left: 8rem;
+            margin-right: 8rem;
+            text-align: center;
+            background-color: #2068ab;
+        }
+    
+
+    .recognitions-section ul{
+        list-style: none;
+        line-height: 1.5;
+        padding: 1rem;
+        font-size: 1.7rem;
+        color: #d0ebff;
+        font-weight: 500;
+     }
+
+    .recognitions-section-2 ul{
+       list-style: none;
+       line-height: 1.5;
+       font-size: 1.7rem;
+       color: #adb5bd;
+       font-weight: 700;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(130%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1174px*/
+@media (max-width: 1174px){
+    .published-section-title{
+        font-size: 3.5rem;
+    }
+
+    .project-5-title{
+        font-size: 3.4rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(125%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1154px*/
+@media (max-width: 1154px){
+    
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(120%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+/*1150px*/
+@media (max-width: 1150px){
+    .recognitions-section-2{
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
+        padding: 1.5rem;
+        border-radius: 2rem;
+        text-align: left;
+        margin-left: 8rem;
+        margin-right: 8rem;
+        text-align: center;
+    }
+    
+    .recognitions-section-2 ul{
+       list-style: none;
+       line-height: 1.5;
+       font-size: 1.7rem;
+       color: #adb5bd;
+       font-weight: 700;
+    }
+
+    .project-1-title{
+        font-size: 3.2rem;
+    }
+
+    .project-1-features-title{
+        font-size: 3rem;
+    }
+
+    .about-me-h1{
+        font-size: 3.5rem;
+    }
+}
+
+
+/*1117px*/
+@media (max-width: 1117px){
+    
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(116%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+
+/*1100*/
+@media (max-width: 1110px){
+    .contact-header .header-text-box h2{
+        font-size: 7.7rem
+    }
+
+    .btn-h1-box{
+        padding-left: 3rem
+    }
+
+    .contact-card1 h3{
+        font-size: 2rem;
+    }
+
+    .contact-card1 li{
+        font-size: 1.6rem;
+    }
+
+    .contact-card2-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card2-flex p{
+        font-size: 1.6rem;
+    }
+
+    .contact-card3-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card3-flex p{
+        font-size: 1.6rem;
+    }
+
+    .contact-card4-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card4-flex p{
+        font-size: 1.6rem;
+    }
+
+    .contact-card5-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card5-flex p{
+        font-size: 1.6rem;
+    }
+
+
+    .about-me h1{
+        font-size: 3.7rem;
+    }
+
+    .project-1-title{
+        font-size: 3.3rem;
+    }
+ 
+    .project-1-p{
+        font-size: 1.7rem
+    }
+
+    .project-1-box{
+        padding-left: 6rem
+    }
+
+    .project-1-features-title{
+        font-size: 3rem
+    }
+
+    .published-section-title{
+        font-size: 3.6rem
+    }
+
+    .projects-header{
+        padding: 15rem;
+        place-items: center;
+        align-items: center;
+        gap: 0;
+        height: auto;
+    }
+
+    .contact-header{
+    padding: 15rem;
+    place-items: center;
+    align-items: center;
+    gap: 0;
+    height: auto;
+    }
+
+
+    .container{
+        width: 100%
+     }
+    header .header-text-box{
+        font-size: 5rem;
+        text-align: center;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2.8rem;
+    }
+
+    .perfil-img{
+        width: 36rem;
+        height: 36rem;
+    }
+    
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 3.6%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(90%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+}
+
+    .about-me-h1{
+        text-align: center;
+        font-size: 4.1rem;
+    }
+
+    .about-me-p{
+        color: #868e96;
+        font-size: 1.2rem;
+    }
+
+    .section-title{
+        font-size: 4.1rem;
+    }
+
+    section .section-card1{
+        margin: 1rem;
+        height: 36rem;
+    }
+
+    .card-p{
+        font-size: 1.3rem;
+    }
+
+    .section-img1{
+        width: 100%;
+        height: 35%;
+        object-fit: cover;
+    }
+
+    section .section-card2{
+        margin: 1rem;
+        height: 36rem;
+    }
+
+    .section-img2{
+        width: 100%;
+        height: 35%;
+        object-fit: cover;
+    }
+
+    .section-grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 10rem;
+        align-items: center;
+     }
+     
+     .books-section-title{
+        margin-top: 7rem/*MARGIN*/;
+        margin-bottom: 5rem;/*MARGIN*/
+        text-align: center;
+        font-size: 4.5rem;
+    }
+
+    .books-section1{
+        height: 60%
+    }
+
+    .books-section-h1{
+        font-size: 4.2rem;
+    }
+
+    .books-section-p{
+        font-size: 1.6rem;
+    }
+
+    .books-section-p strong{
+        font-size: 1.7rem;
+    }
+
+    .books-section-h1-2{
+        font-size: 4.2rem;
+    }
+
+    .books-section-p2{
+        font-size: 1.6rem;
+    }
+
+    .books-section-p2 strong{
+        font-size: 1.7rem;
+    }
+
+    .books-section2{
+        height: 60%
+    }
+
+    .aside-h1{
+        font-size: 4rem;
+    }
+    
+    .academic-icon-flex li{
+       list-style: none;
+       font-size: 1.3rem;
+       line-height: 1.6;
+}
+
+    .academic-icon{
+       width: 1.7rem;
+       height: 1.7rem;
+}
+
+     .lets-connect-text{
+        margin-top: 4rem;
+        font-size: 3.5rem
+    }
+
+    .connect-section-text ul{
+        list-style: none;
+        line-height: 1.7;
+        font-size: 1.2rem;
+    }
+
+    .connect-section-text p{
+        font-size: 1.5rem;
+    }
+
+    .copyright {
+        width: 100%;
+        padding: 2rem 0;
+        text-align: center;
+        font-size: 1.2rem;
+    }
+
+    .projects-icon{
+        width: 3.4rem;
+        height: 3.4rem;
+        stroke:#212529
+    }
+    
+    .projects-flex-icons{
+        line-height: 3;
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+    }
+}
+
+@media (max-width: 1100px){
+    .perfil-img-about{
+        object-fit: cover;
+        width: 38rem;
+        height: 38rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease
+    }
+
+    .about-header h2{
+        font-size: 8.6rem
+    }
+
+    .books-section-p-about{
+        font-size: 2.5rem
+    }
+
+    .books-section-btn{
+        font-size: 1.7rem
+    }
+
+    .section-button{
+        font-size: 1.6rem;
+        font-weight: 780;
+    }
+
+    .books-section-p-about{
+        font-size: 3.5rem;
+    }
+
+    .books-section1 .books-section-p-about{
+        font-size: 3.3rem
+    }
+
+    .github-btn{
+        height: 7rem;
+        width: 7rem;
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+        margin-top: 2rem
+    }
+    
+    .linkedin-btn{
+        margin-top: 2rem;
+        height: 7rem;
+        width: 7rem;
+        margin-bottom: 2rem
+    }
+}
+   
+/*1082px*/
+@media (max-width: 1082px){
+    .about-me h1{
+        font-size: 3.4rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(108%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+
+.project-1-title{
+    font-size: 3.2rem;
+}
+
+.project-1-features-title{
+    font-size: 3rem;
+}
+
+.about-me-h1{
+    font-size: 3.5rem;
+}
+
+.books-section-p-about{
+    font-size: 3.5rem;
+}
+
+.published-section-title{
+    font-size: 3.5rem
+}
+
+.published-section-box ul {
+    font-size: 1.3rem
+}
+
+.project-5-title{
+    font-size: 3.2rem;
+}
+
+.academic-icon-flex{
+    display: flex;
+    align-items: center;
+    gap: 1.2rem
+}
+
+}
+
+@media (max-width: 1055px){
+    .project-1-title{
+        font-size: 3rem
+    }
+
+    .project-1-features-title{
+        font-size: 3rem;
+    }
+
+    .project-1-title{
+        font-size: 3rem;
+    }
+
+    .contact-card2-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card2-flex p{
+        font-size: 1.4rem;
+    }
+
+    .contact-card3-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card3-flex p{
+        font-size: 1.4rem;
+    }
+
+    .contact-card4-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card4-flex p{
+        font-size: 1.4rem;
+    }
+
+    .contact-card5-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card5-flex p{
+        font-size: 1.4rem;
+    }
+}
+
+
+
+
+/*1055px*/
+@media (max-width: 1055px){
+    
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(103%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+
+    /*1050*/
+    @media (max-width: 1050px){
+    header .header-text-box{
+        font-size: 5rem;
+        text-align: center;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2.5rem;
+    }
+
+    .perfil-img{
+        width: 35rem;
+        height: 35rem;
+    }
+}
+
+/*1034px*/
+@media (max-width: 1034px){
+    
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(95%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+}
+
+@media (max-width: 1000px){
+    .perfil-img-about{
+        object-fit: cover;
+        width: 33rem;
+        height: 33rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease
+    }
+
+    .about-header h2{
+        font-size: 8.2rem
+    }
+
+    .aside-h1-about{
+        font-size: 3.7rem
+    }
+
+    .about-section li{
+        font-size: 2rem
+    }
+
+    .academic-icon-about{
+        height: 2rem;
+        width: 2rem
+    }
+
+    .aside-about-h4{
+        font-size: 1.6rem
+    }
+
+    .certification-card-2{
+        line-height: 1;
+    }
+
+    .certification-card-3{
+        line-height: 1;
+    }
+
+    .certifications-grid-4{
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 2rem
+    }
+
+    .books-section-p-about{
+        font-size: 3.5rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 4.3%;
+        max-width: 4%;
+        height: 2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(90%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-10%, -50%);
+}
+
+.books-section-p-about{
+    font-size: 3.1rem;
+}
+
+.collaborating-title{
+    font-size: 3.2rem;
+}
+
+.collaborating1-h3{
+    font-size: 2.6rem;
+}
+
+.colaborating-h2{
+    font-size: 2.6rem;
+}
+
+.colaborating-p{
+    font-size: 1.6rem;
+}
+
+.published-section-title{
+    font-size: 3.3rem
+}
+
+.project-1-features-title{
+    font-size: 2.9rem;
+}
+}
+
+    /*970*/
+    @media(max-width: 970px){
+        .project-1-p{
+            font-size: 1.3rem;
+            margin-right: 5rem
+        }
+
+        .contact-header .header-text-box h2{
+            font-size: 7.7rem
+        }
+    
+        .btn-h1-box{
+            padding-left: 3rem
+        }
+    
+        .contact-card1 h3{
+            font-size: 2rem;
+        }
+    
+        .contact-card1 li{
+            font-size: 1.6rem;
+        }
+    
+        .contact-title{
+            font-size: 3.6rem;
+        }
+
+        .contact-card2-flex h3{
+            font-size: 2rem
+        }
+    
+        .contact-card2-flex p{
+            font-size: 1.5rem;
+        }
+    
+        .contact-card3-flex h3{
+            font-size: 2rem
+        }
+    
+        .contact-card3-flex p{
+            font-size: 1.5rem;
+        }
+    
+        .contact-card4-flex h3{
+            font-size: 2rem
+        }
+    
+        .contact-card4-flex p{
+            font-size: 1.5rem;
+        }
+    
+        .contact-card5-flex h3{
+            font-size: 2rem
+        }
+    
+        .contact-card5-flex p{
+            font-size: 1.5rem;
+        }
+    
+
+        header .header-text-box{
+            font-size: 4rem;
+            text-align: center;
+        }
+    
+        .header-text-box h3{
+            color: #dee2e6;
+            font-size: 2.1rem;
+        }
+    
+        .perfil-img{
+            width: 33rem;
+            height: 33rem;
+        }
+    
+        
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; 
+        width: 4%;
+        max-width: 4%;
+        height: 2.2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(77%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .nav-menu-box ul {
+        display: flex;
+        gap: 1rem;
+        list-style: none;
+        margin: 0;
+        justify-content: center;
+        font-size: 1.5rem;
+    }
+
+    .nav-button {
+        font-family: "Inter", sans-serif;
+        padding: 0.5rem 4rem;
+        font-size: 1.3rem;
+    }
+
+    .contact-number {
+        text-decoration: none;
+        color: #dee2e6;
+        font-size: 1.3rem;
+    }
+
+    .icon-number-box h3{
+        font-size: 1.3rem;
+    }
+
+    .projects-books-section5 .books-section-p-about{
+        font-size: 3.8rem
+    }
+
+    .icon {
+        width: 1.7rem;
+        height: 1.4rem;
+    }
+
+    .about-me-h1{
+        text-align: center;
+        font-size: 3.5rem;
+        margin-top: 6rem;
+    }
+
+    .about-me-p{
+        color: #868e96;
+        font-size: 1rem;
+        line-height: 1.4;
+        margin-bottom: 7rem
+    }
+
+    .section-title{
+        font-size: 3.5rem;
+    }
+
+.section-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 8rem;
+    column-gap: 2rem;
+    align-items: center;
+ }
+
+section .section-card1{
+    margin: 0.6rem;
+    height: 32rem;
+}
+
+.card-h2{
+    font-size: 2.4rem;
+}
+
+.card-p{
+    font-size: 1.3rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 30%;
+    object-fit: cover;
+}
+
+    
+section .section-card2{
+    margin: 0.6rem;
+    height: 32rem;
+}
+
+.projects-icon{
+    width: 3rem;
+    height: 3rem;
+    stroke:#212529
+}
+
+.projects-flex-icons{
+    line-height: 3;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 30%;
+    object-fit: cover;
+}
+
+ 
+.books-section-title{
+    margin-top: 5rem/*MARGIN*/;
+    margin-bottom: 5rem;/*MARGIN*/
+    text-align: center;
+    font-size: 3.8rem;
+}
+
+.books-section1{
+    height: 60%
+}
+
+.books-section-h1{
+    font-size: 4.2rem;
+}
+
+.books-section-p{
+    font-size: 1.6rem;
+}
+
+.books-section-p strong{
+    font-size: 1.7rem;
+}
+
+.books-section-h1-2{
+    font-size: 4.2rem;
+}
+
+.books-section-p2{
+    font-size: 1.6rem;
+}
+
+.books-section-p2 strong{
+    font-size: 1.7rem;
+}
+
+.books-section2{
+    height: 60%
+}
+
+.aside-h1{
+    font-size: 3.5rem;
+}
+
+.books-section1 .books-section-p-about{
+    font-size: 3rem
+}
+
+.books-section-btn{
+    font-size: 1.5rem;
+    padding: 0.5rem 5rem;
+}
+
+.books-section-btn2{
+    font-size: 1.5rem;
+    padding: 0.5rem 5rem;
+}
+
+.aside-icon{
+    width: 4rem;
+    height: 4rem;
+}
+
+.lets-connect-text{
+    margin-top: 1rem;
+    font-size: 3.2rem
+}
+
+.connect-section-text ul{
+    list-style: none;
+    line-height: 1.7;
+    font-size: 1.2rem;
+}
+
+.connect-section-text p{
+    font-size: 1.5rem;
+}
+
+.copyright {
+    width: 100%;
+    padding: 2rem 0;
+    text-align: center;
+    font-size: 1rem;
+}
+}
+
+/*920px*/
+@media (max-width: 920px){
+    header{
+        display: grid;
+        grid-template-rows: auto;
+        place-items: center;
+        align-items: center;
+        gap: 0;
+        height: auto;
+        row-gap: 2rem;
+    }
+
+    header h2{
+        margin-top: 5rem
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2.7rem;
+        text-align: center;
+    }
+
+    .perfil-img{
+        width: 33rem;
+        height: 33rem;
+        margin-bottom: 3rem;
+    }
+    
+       
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; 
+        width: 4%;
+        max-width: 4%;
+        height: 2.2rem;
+    }
+
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+
+     body.fondo-oscuro #btn {
+       transform: translate(70%, -50%);
+}
+
+    body.fondo-claro #btn {
+       transform: translate(-12%, -50%);
+    }
+
+    .connect-section{
+        display: grid;
+        grid-template-columns: unset;
+        grid-template-rows: 1fr 1fr;
+        row-gap: 3rem;
+        align-items: center; 
+        justify-items: center;
+        padding: 3rem 2rem; 
+    }
+    
+    .connect-section-text{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        text-align: center; 
+    }
+
+    .connect-section-text ul{
+        width: 100%;
+        list-style: none;
+        line-height: 1.7;
+        font-size: 1.1rem;
+        padding-top: 2rem;
+        color: #74c0fc
+    }
+    
+    .connect-section-text p{
+        width: 100%;
+        font-size: 1.7rem;
+        font-weight: 650;
+        color: #e9ecef
+    }
+  
+    .input-section #send-message-btn{
+       display: none
+    }
+
+    .input-section{
+        display: flex;
+        justify-content: center;
+        gap: 2rem
+    }
+}
+
+
+/*880px*/
+@media (max-width: 880px){
+    .btn-h1-box{
+        padding-left: 3rem
+    }
+
+    .contact-card1 h3{
+        font-size: 2rem;
+    }
+
+    .contact-card1 li{
+        font-size: 1.6rem;
+    }
+
+    .contact-title{
+        font-size: 3.2rem;
+    }
+
+    .books-section1 .books-section-p-about{
+        font-size: 3rem
+    }
+
+    .contact-card2-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card2-flex p{
+        font-size: 1.4rem;
+    }
+
+    .contact-card3-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card3-flex p{
+        font-size: 1.4rem;
+    }
+
+    .contact-card4-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card4-flex p{
+        font-size: 1.4rem;
+    }
+
+    .contact-card5-flex h3{
+        font-size: 2rem
+    }
+
+    .contact-card5-flex p{
+        font-size: 1.4rem;
+    }
+
+
+    .perfil-img{
+        width: 30rem;
+        height: 30rem;
+        margin-bottom: 3rem;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2.5rem;
+    }
+
+    header .header-text-box{
+        font-size: 3.6rem;
+    }
+
+    .about-me-h1{
+        text-align: center;
+        font-size: 3.2rem;
+        margin-top: 5rem;
+    }
+
+    .about-me-p{
+        color: #868e96;
+        font-size: 0.9rem;
+        line-height: 1.4;
+        margin-bottom: 6rem
+    }
+    
+    .section-title{
+        font-size: 3.2rem;
+    }
+
+    section .section-card1{
+        margin: 1rem;
+        height: 38rem;
+    }
+
+    .card-p{
+        font-size: 1.3rem;
+    }
+
+    .section-img1{
+        width: 100%;
+        height: 36%;
+        object-fit: cover;
+    }
+
+    section .section-card2{
+        margin: 1rem;
+        height: 38rem;
+    }
+
+    .card-p2{
+        font-size: 1.3rem;
+    }
+
+    .section-img2{
+        width: 100%;
+        height: 36%;
+        object-fit: cover;
+    }
+
+    
+    .books-section-title{
+        margin-top: 6rem/*MARGIN*/;
+        margin-bottom: 5rem;/*MARGIN*/
+        text-align: center;
+        font-size: 3.5rem;
+    }
+
+    .books-section1{
+        height: 60%;
+    }
+
+    .books-section-h1{
+        font-size: 3.7rem;
+    }
+
+    .books-section-p{
+        font-size: 1.2rem;
+    }
+
+    .books-section-p strong{
+        font-size: 1.3rem;
+    }
+
+    .books-section-h2{
+        font-size: 3.7rem;
+    }
+
+    .books-section-p2{
+        font-size: 1.2rem;
+    }
+
+    .books-section-p2 strong{
+        font-size: 1.3rem;
+    }
+
+    .books-section2{
+        height: 60%
+    }
+
+    .aside-h1{
+        font-size: 3.7rem;
+    }
+
+    .academic-icon-flex li{
+        list-style: none;
+        font-size: 1.6rem;
+        line-height: 1.6;
+    }
+
+    .academic-icon-flex{
+       gap: 1rem
+ }
+
+      .academic-icon{
+        width: 2rem;
+        height: 2rem;
+      }
+ 
+      .connect-section{
+        display: grid;
+        grid-template-columns: unset;
+        grid-template-rows: 1fr 1fr;
+        row-gap: 3rem;
+        align-items: center; 
+        justify-items: center;
+        padding: 3rem 2rem; 
+    }
+    
+    .connect-section-text{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        text-align: center; 
+    }
+
+    .project-1-p{
+        font-size: 1.5rem
+    }
+
+    .github-btn{
+        height: 6.8rem;
+        width: 6.8rem;
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+        margin-top: 2rem
+    }
+    
+    .linkedin-btn{
+        margin-top: 2rem;
+        height: 6.8rem;
+        width: 6.8rem;
+        margin-bottom: 2rem
+    }
+
+    .connect-section-text ul{
+        width: 100%;
+        list-style: none;
+        line-height: 1.7;
+        font-size: 1.1rem;
+        padding-top: 2rem;
+        color: #74c0fc
+    }
+    
+    .connect-section-text p{
+        width: 100%;
+        font-size: 1.7rem;
+        font-weight: 650;
+        color: #e9ecef
+    }
+  
+    .input-section #send-message-btn{
+       display: none
+    }
+
+    .input-section{
+        display: flex;
+        justify-content: center;
+        gap: 2rem
+    }
+}
+
+@media (max-width: 861px){
+    .books-section-box .books-section-p-about{
+        font-size: 3.1rem;
+    }
+
+    .project-1-p{
+        font-size: 1.5rem
+    }
+
+    .projects-books-section-box .books-section-p-about{
+        font-size: 3.1rem;
+    }
+
+    .project-1-title{
+        font-size: 2.8rem;
+    }
+
+    .project-2-p{
+        font-size: 1.4rem;
+    }
+
+    .project-3-p{
+        font-size: 1.4rem;
+    }
+
+    .published-section-title{
+        font-size: 3rem;
+    }
+
+    .projects-books-section-box .books-section-p-about{
+        padding-left: 1rem
+    }
+
+    .project-4-title{
+        font-size: 2rem
+    }
+
+    .project-4-title2{
+        font-size: 2.6rem
+    }
+
+    .project-4-list{
+        font-size: 1.8rem;
+    }
+
+    .project-5-title{
+        font-size: 2.6rem
+    }
+
+    .project-5-list-h3{
+        font-size: 2.3rem;
+    }
+
+    .collaborating-title{
+        font-size: 2.6rem;
+    }
+
+    .collaborating1-h3{
+        font-size: 2.5rem;
+    }
+
+    
+    .last-box .colaborating-h2{
+        font-size: 2.2rem;
+    }
+
+    .collaborating-h3{
+        font-size: 2.2rem;
+    }
+}
+
+
+/*860*/
+@media (max-width: 860px){
+    .perfil-img-about{
+        object-fit: cover;
+        width: 30rem;
+        height: 30rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease;
+        margin-right: 1rem;
+    }
+
+    .about-header h2{
+        font-size: 8rem;
+        margin-left: 1rem;
+    }
+
+    .books-section-p-about{
+        font-size: 2.2rem
+    }
+
+    .books-section-btn{
+        font-size: 1.6rem;
+    }
+
+    .certification-card-4 ul{
+        line-height:  1.5;
+        font-size: 1.5rem;
+    }
+
+    .certification-card-5 p{
+        line-height:  1.5;
+        font-size: 1.5rem;
+    }
+
+    .recognitions-section-2 ul{
+        line-height: 1.5;
+        font-size: 1.5rem;
+    }
+
+    .certification-card-3 h3{
+        font-size: 3rem;
+    }
+
+    .certification-card-3 ul{
+        font-size: 1.6rem;
+    }
+
+    .recognitions-section-2 h1{
+        font-size: 2.5rem;
+    }
+
+    .aside-h1-about{
+        font-size: 3.4rem
+    }
+
+    .about-section li{
+        font-size: 2rem
+    }
+
+    .academic-icon-about{
+        height: 2rem;
+        width: 2rem
+    }
+
+    .projects-books-section5 .books-section-p-about{
+        font-size: 3rem;
+    }
+
+    .aside-about-h4{
+        font-size: 1.6rem
+    }
+
+    .certification-card-2{
+        line-height: 1;
+    }
+
+    .certification-card-3{
+        line-height: 1;
+    }
+
+    .certifications-grid-4{
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 2rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 5%;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(102%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    }
+
+
+/*840*/
+@media (max-width: 840px){
+#interruptor {
+    position: relative;
+    padding: 0.2rem;
+    margin: 1rem; /*margen*/
+    width: 5%;
+    max-width: 6%;
+    height: 2rem;
+}
+
+.btn{
+   width: 1.9rem;
+   height: 1.9rem;
+   transform: translateY(-50%);
+}
+
+ body.fondo-oscuro #btn {
+   transform: translate(93%, -50%);
+}
+
+body.fondo-claro #btn {
+   transform: translate(-8%, -50%);
+}
+
+.projects-icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    color: #555; 
+  }
+  
+  .projects-flex-icons .text {
+    line-height: 1.5;
+    font-size: 1.5rem;
+    white-space: normal;
+    color:#868e96
+  }
+  
+}
+
+/*810*/
+@media (max-width: 810px){
+    .about-header{
+        display: grid;
+        grid-template-rows: auto;
+        place-items: center;
+        align-items: center;
+        gap: 0;
+        height: auto;
+        row-gap: 2rem;
+    }
+
+    .about-header h2{
+        font-size: 6.4rem;
+    }
+
+    .perfil-img-about{
+        object-fit: cover;
+        width: 29rem;
+        height: 29rem;
+        margin-right: 3rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease;
+        margin-right: 1rem;
+        margin-bottom: 5rem
+    }
+
+    .section-title-about-btn{
+        font-size: 2rem;
+        font-weight: 780;
+    }
+
+    .books-section-p-about{
+        font-size: 2.2rem
+    }
+
+    .aside-h1-about{
+        font-size: 2.8rem;
+        padding: 0
+    }
+
+    .about-section li{
+        font-size: 1.7rem;
+    }
+
+    .certifications-title-btn{
+        font-size: 2rem;
+    }
+
+    .certification-card-1 h2{
+        font-size: 2.7rem;
+    }
+
+    .certification-card-1 h3{
+        font-size: 2rem;
+    }
+
+    .certification-card-1 li{
+        font-size: 1.5rem;
+    }
+
+    .certification-card-2 h3{
+        font-size: 2.7rem;
+    }
+
+    .certification-card-2 li{
+        font-size: 1.5rem;
+    }
+
+    .certification-card-3 h3{
+        font-size: 2.7rem;
+        text-align: left;
+    }
+
+    .certification-card-3 li{
+        font-size: 1.5rem;
+    }
+
+    .certification-card-4 h3{
+        font-size: 2.7rem;
+    }
+
+    .academic-icon{
+        width: 4rem
+    }
+
+    .certification-card-4 li{
+        font-size: 1.5rem;
+    }
+
+    .certifications-grid-4{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        row-gap: 4rem;
+    }
+
+    .certification-card-5 h3{
+        font-size: 2.7rem;
+    }
+
+    .certification-card-5 p{
+        font-size: 1.5rem;
+    }
+    
+    .button-recognitions-2{
+        font-size: 2rem;
+    }
+
+}
+
+@media (max-width: 800px){
+    .academic-icon-flex{
+        display: flex;
+        align-items: center;
+        gap: 1.2rem
+    }
+    
+    .books-section1 .books-section-p-about{
+        font-size: 2.8rem
+    }
+
+    .about-me h1{
+        font-size: 3.3rem
+    }
+
+    .projects-books-section-box .books-section-p-about{
+        padding: 5rem
+    }
+
+    .project-4-title{
+        font-size: 1.8rem;
+    }
+
+    .project-4-list{
+        font-size: 1.5rem
+    }
+
+    .project-5-list-h3{
+        font-size: 2rem
+    }
+
+    .books-section-box .books-section-p-about{
+        font-size: 2.5rem;
+        padding-left: 1rem
+    }
+
+    .project-1-p{
+        font-size: 1.3rem;
+        margin-right: 5rem
+    }
+
+
+}
+
+/*790*/
+@media (max-width: 790px){
+    .recognitions-section-2{
+       box-shadow: none;
+    }
+
+    .i-cover-box{
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        border-radius: 1rem;
+        MARGIN-BOTTOM: 4rem
+    }
+
+    .im-avaible-box{
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        border-radius: 1rem;
+    }
+}
+
+/*780*/
+@media (max-width: 780px){
+    .contact-header h2{
+        font-size: 5.6rem
+    }
+
+    .academic-icon-flex{
+        display: flex;
+        align-items: center;
+        gap: 1.2rem
+    }
+
+    .btn-h1-box{
+        padding-left: 3rem
+    }
+
+    .contact-card1 h3{
+        font-size: 1.9rem;
+    }
+
+    .contact-card1 li{
+        font-size: 1.5rem;
+    }
+
+    .contact-title{
+        font-size: 3rem;
+    }
+
+    .contact-card2-flex h3{
+        font-size: 1.7rem
+    }
+
+    .contact-card2-flex p{
+        font-size: 1.5rem;
+    }
+
+    .contact-card3-flex h3{
+        font-size: 1.7rem
+    }
+
+    .contact-card3-flex p{
+        font-size: 1.5rem;
+    }
+
+    .contact-card4-flex h3{
+        font-size: 1.7rem
+    }
+
+    .contact-card4-flex p{
+        font-size: 1rem;
+    }
+
+    .contact-card5-flex h3{
+        font-size: 1.7rem
+    }
+
+    .contact-card5-flex p{
+        font-size: 1.5rem;
+    }
+
+
+    header .header-text-box{
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2.3rem;
+    }
+
+    .perfil-img{
+        width: 32rem;
+        height: 32rem;
+    }
+
+    .recognitions-section-2-box{
+        padding: 3rem
+    }
+    
+section .section-card1{
+    margin: 0.6rem;
+    height: 35rem;
+}
+
+
+.card-h2{
+    font-size: 2.1rem;
+}
+
+.card-p{
+    font-size: 1.1rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 35%;
+    object-fit: cover;
+
+}
+
+section .section-card2{
+    margin: 0.6rem;
+    height: 35rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 35%;
+    object-fit: cover;
+}
+
+.learn-more{
+    font-size: 1.2rem;
+    border-radius: 1.2rem;
+    padding: 1rem;
+}
+
+.academic-icon{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+  .lets-connect-text{
+     margin-top: 3rem;
+     font-size: 3.2rem
+ }
+
+ .connect-section-text ul{
+     list-style: none;
+     line-height: 1.7;
+     font-size: 1.2rem;
+ }
+
+ .connect-section-text p{
+     font-size: 1.4rem;
+ }
+
+ .copyright {
+     width: 100%;
+     padding: 2rem 0;
+     text-align: center;
+     font-size: 0.9rem;
+ }
+
+ .aside-h1{
+    font-size: 2.8rem;
+}
+}
+
+/*772*/
+    @media (max-width: 772px){
+        #interruptor {
+            position: relative;
+            padding: 0.2rem;
+            margin: 1rem; /*margen*/
+            width: 5.3%;
+            max-width: 6%;
+            height: 2rem;
+        }
+        
+        .btn{
+           width: 1.9rem;
+           height: 1.9rem;
+           transform: translateY(-50%);
+        }
+        
+         body.fondo-oscuro #btn {
+           transform: translate(93%, -50%);
+        }
+        
+        body.fondo-claro #btn {
+           transform: translate(-8%, -50%);
+        }
+        }
+
+/*757*/
+@media (max-width: 757px){
+    .project-5-list-p{
+        font-size: 1.5rem
+    }
+
+    .about-me h1{
+        font-size: 3rem;
+    }
+
+    .project-1-features-title{
+        font-size: 2.6rem;
+    }
+
+    .projects-books-section1 .books-section-p-about{
+        font-size: 2.9rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 5.4%;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    }
+
+
+    /*743*/
+    @media (max-width: 743px){
+        .project-5-list-p{
+            font-size: 1.5rem
+        }
+
+        #interruptor {
+            position: relative;
+            padding: 0.2rem;
+            margin: 1rem; /*margen*/
+            width: 5.6%;
+            max-width: 6%;
+            height: 2rem;
+        }
+        
+        .btn{
+           width: 1.9rem;
+           height: 1.9rem;
+           transform: translateY(-50%);
+        }
+        
+         body.fondo-oscuro #btn {
+           transform: translate(93%, -50%);
+        }
+        
+        body.fondo-claro #btn {
+           transform: translate(-8%, -50%);
+        }
+        }
+
+
+/*735*/
+ @media (max-width: 735px){
+       .about-header h2{
+        font-size: 5.2rem;
+        text-align: center;
+       }
+
+       
+
+       .section-title-about-btn{
+        font-size: 1.7rem;
+       }
+
+       .books-section-p-about{
+        font-size: 2rem;
+       }
+
+       .i-cover-box li{
+          line-height: none;
+    }
+
+    .certifications-title-btn{
+        font-size: 1.7rem;
+    }
+
+    .button-recognitions{
+        font-size: 1.7rem;
+    }
+
+    .recognitions-section li{
+        font-size: 1.4rem;
+        line-height: 3rem;
+    }
+
+    .button-recognitions-2{
+        font-size: 1.7rem;
+    }
+
+    .collaborating1-h3{
+        font-size: 2.2rem;
+    }
+
+    .last-box .colaborating-h2{
+        font-size: 2.2rem
+    }
+
+    .colaborating-p{
+        font-size: 1.3rem;
+        margin-right: 10rem
+    }
+
+
+ }
+
+/*723*/
+@media (max-width: 723px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 5.7;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    }
+
+/*717*/
+@media (max-width: 717px){
+    .contact-card-box .contact-card1 h3{
+        font-size: 1.7rem;
+    }
+
+    .contact-card1 .contact-ul li{
+        font-size: 1.4rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 5.8%;
+        max-width: 6%;
+        height: 2rem;
+    }
+    
+    .btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+     body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+    body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .github-btn{
+        height: 6rem;
+        width: 6rem;
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+        margin-top: 1rem
+    }
+    
+    .linkedin-btn{
+        margin-top: 1rem;
+        height: 6rem;
+        width: 6rem;
+        margin-bottom: 2rem
+    }
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.5;
+        font-size: 1.5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem/*MARGIN*/;
+        text-align: justify;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+        padding: 2rem;
+        border-radius: 1rem
+    }
+    }
+
+/*700*/
+@media (max-width: 700px){
+    .about-me h1{
+        font-size: 2.9rem;
+    }
+
+    .project-1-title{
+        font-size: 2.8rem
+    }
+
+    .project-1-box .project-1-p{
+        font-size: 1.3rem;
+    }
+
+    .project-1-features-title{
+        font-size: 2.8rem
+    }
+
+    .project-1-title{
+        font-size: 2.7rem
+    }
+
+    .project-5-list-p{
+        font-size: 1.5rem
+    }
+
+    .perfil-img-about{
+        width: 30rem;
+        height: 30rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease
+    }
+
+    .books-section-box .books-section-p-about{
+        font-size: 2.5rem;
+        padding-left: 1rem
+    }
+
+    #interruptor {
+            position: relative;
+            padding: 0.2rem;
+            margin: 1rem; /*margen*/
+            width: 5.9%;
+            max-width: 6%;
+            height: 2rem;
+        }
+        
+    .btn{
+           width: 1.9rem;
+           height: 1.9rem;
+           transform: translateY(-50%);
+        }
+        
+    body.fondo-oscuro #btn {
+           transform: translate(93%, -50%);
+        }
+        
+    body.fondo-claro #btn {
+           transform: translate(-8%, -50%);
+        }
+
+        .recognitions-section-2-box{
+            padding: 3rem
+        }
+
+        .btn-h1-box{
+            padding-top: 5rem
+        }
+
+        .section-title{
+            padding-top: 2rem;
+        }
+        
+
+        .contact-card-box .contact-card1 h3{
+            font-size: 1.4rem;
+        }
+
+        .about-me .about-me-h1{
+            margin-top: 0.3rem
+        }
+
+        .certifications-btn-box .certifications-title-btn{
+            margin-top: 0;
+            margin-bottom: 0.01rem;
+        }
+
+        .about-section{
+            padding: 5rem;
+            margin-top: 5rem;
+            margin-bottom: 0.01rem;
+            background-color: #2068ab;
+            box-shadow: 0 0 10px 0 rgba(25, 80, 131, 0.9)
+        }
+
+        .certification-card-3-box .certification-card-3{
+            padding-bottom: 0.1rem
+        }
+
+        .certification-card-4{
+            padding-top: 0.1rem
+        }
+
+        .certifications-grid-4 .certification-card-5{
+            margin-bottom: 1rem
+        }
+
+        .button-recognitions-box{
+            display: flex;
+            width: 100%;
+            text-align: center;
+            justify-content: center;
+            margin-top: 5rem;
+        }
+
+        .button-recognitions-box-2{
+            display: flex;
+            justify-content: center;
+            margin-bottom: 0.1rem;
+            text-align: center;
+        }
+        
+        .button-recognitions-2{
+            padding: 0.5rem
+        }
+
+        .recognitions-section{
+            margin-bottom: 10rem;
+        }
+
+        .certifications-btn-box{
+            display: flex;
+            justify-content: center;
+            margin-top: 6rem;
+            text-align: center;
+        }
+
+        .certification-card-3-box{
+            width: 100%;
+            display: flex;
+            justify-content: center; 
+            align-items: center;      
+            text-align: center;
+            margin-top: 0;
+            padding-bottom: 3rem;
+        }
+
+        .project-1-title{
+            margin-top: 0.1rem;       
+        }
+
+        .project-1-features-title{
+            margin-top: 3rem;
+        }
+
+        .published-section-title{
+            margin-bottom: 0.2rem
+        }
+
+        .project-3-p{
+            padding-bottom: 7rem
+        }
+
+        .published-section-box{
+            margin-bottom: 1rem
+        }
+        
+        .project-4-list{
+            margin-bottom: 5rem;
+        }
+    
+.collaborating1-h3{
+    padding-top: 4rem;
+}
+        
+    }
+
+/*682*/
+@media (max-width: 682px){
+    #interruptor {
+            position: relative;
+            padding: 0.2rem;
+            margin: 1rem; /*margen*/
+            width: 6.1%;
+            max-width: 7%;
+            height: 2rem;
+        }
+        
+    .btn{
+           width: 1.9rem;
+           height: 1.9rem;
+           transform: translateY(-50%);
+        }
+        
+    body.fondo-oscuro #btn {
+           transform: translate(93%, -50%);
+        }
+        
+    body.fondo-claro #btn {
+           transform: translate(-8%, -50%);
+        }
+
+        .certifications-grid{
+            padding: 8rem
+        }
+        
+        }
+
+/*680px*/
+@media (max-width: 680px){
+    .nav-button{
+        display: none;
+    }
+
+    nav {
+        height: 6rem;
+        position: fixed;
+        top: 0;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        padding-top: 1rem;
+        padding-right: 2.7rem
+    }
+}
+
+
+/*665*/
+@media (max-width: 665px){
+    #interruptor {
+            position: relative;
+            padding: 0.2rem;
+            margin: 1rem; /*margen*/
+            width: 6.2%;
+            max-width: 7%;
+            height: 2rem;
+        }
+
+        .projects-books-section5 .books-section-p-about{
+            font-size: 2.9rem;
+        }
+        
+    .btn{
+           width: 1.9rem;
+           height: 1.9rem;
+           transform: translateY(-50%);
+        }
+        
+    body.fondo-oscuro #btn {
+           transform: translate(93%, -50%);
+        }
+        
+    body.fondo-claro #btn {
+           transform: translate(-8%, -50%);
+        }
+        }
+
+/*660*/
+@media (max-width: 660px){
+        
+    section .section-card1{
+        margin: 0.6rem;
+        height: 35rem;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.5;
+        font-size: 1.5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem/*MARGIN*/;
+        text-align: justify;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+        padding: 2rem;
+        border-radius: 1rem
+    }
+    
+    .card-h2{
+        font-size: 1.7rem;
+    }
+    
+    .card-p{
+        font-size: 1rem;
+    }
+    
+    .section-img1{
+        width: 100%;
+        height: 34%;
+        object-fit: cover;
+    
+    }
+    
+    section .section-card2{
+        margin: 0.6rem;
+        height: 35rem;
+    }
+    
+    .section-img2{
+        width: 100%;
+        height: 34%;
+        object-fit: cover;
+    
+    }
+    }
+
+/*650*/
+@media (max-width: 650px){
+    header .header-text-box{
+        font-size: 2.7rem;
+        text-align: center;
+    }
+
+    .projects-books-section3 .books-section-p-about{
+        font-size: 3rem
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2.1rem;
+    }
+
+    .perfil-img{
+        width: 30rem;
+        height: 30rem;
+    }
+
+    .about-me .about-me-h1{
+        margin-top: 1rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 6.4%;
+        max-width: 7%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+    
+section .section-card1{
+    margin: 0.6rem;
+    height: 30rem;
+}
+
+.card-h2{
+    font-size: 1.7rem;
+}
+
+.card-p{
+    font-size: 1rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 31%;
+    object-fit: cover;
+
+}
+
+section .section-card2{
+    margin: 0.6rem;
+    height: 30rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 31%;
+    object-fit: cover;
+}
+
+.learn-more{
+    font-size: 1.2rem;
+    border-radius: 1.2rem;
+    padding: 1rem;
+}
+
+.academic-icon{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+  .lets-connect-text{
+     margin-top: 3rem;
+     font-size: 3.2rem
+ }
+
+ .connect-section-text ul{
+     list-style: none;
+     line-height: 1.7;
+     font-size: 1.2rem;
+ }
+
+ .connect-section-text p{
+     font-size: 1.4rem;
+ }
+
+ .copyright {
+     width: 100%;
+     padding: 2rem 0;
+     text-align: center;
+     font-size: 0.9rem;
+ }
+
+ .aside-h1{
+    font-size: 1.7rem;
+}
+
+
+.about-me-h1{
+    text-align: center;
+    font-size: 2.8rem;
+    margin-top: 6rem;
+}
+
+.about-me-p{
+    color: #868e96;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    margin-bottom: 7rem
+}
+
+.section-title{
+    font-size: 2.8rem;
+}
+
+.aside-h1{
+    font-size: 2.8rem;
+}
+
+.books-section-title{
+    margin-top: 7rem/*MARGIN*/;
+    margin-bottom: 3rem;/*MARGIN*/
+    text-align: center;
+    font-size: 2.8rem;
+}
+
+
+.books-section-h1{
+    font-size: 3.8rem;
+    color: #e9ecef
+}
+
+.books-section-p{
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-weight: 700;
+    color: #adb5bd
+}
+
+.books-section-p strong{
+    color:#74c0fc;
+    font-style: italic;
+    font-size: 1.6rem
+}
+
+
+.books-section-h1-2{
+    font-size: 3.8rem;
+    color: #e9ecef
+}
+
+.books-section-p2{
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-weight: 700;
+    color: #adb5bd
+}
+
+.books-section-p2 strong{
+    color:#74c0fc;
+    font-style: italic;
+    font-size: 1.6rem
+}
+
+.books-section-btn-box{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+
+.books-section-btn{
+    font-size: 1.2rem;
+    padding: 0.5rem 5rem;
+    border-radius: 1rem;
+    border: none;
+    font-weight: 650;
+    background-color: transparent;
+    color: #fff;
+    border: solid #fff 0.2rem;
+    cursor: pointer;
+    transition: color 0.3s ease, border 0.3s ease;
+}
+
+.academic-icon-flex li{
+    list-style: none;
+    font-size: 1.3rem;
+    line-height: 1.6;
+}
+
+ .academic-icon{
+    width: 1.7rem;
+    height: 1.7rem;
+}
+
+.lets-connect-text{
+    font-size: 2.9rem;
+}
+
+.section-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 6rem;
+}
+
+.projects-icon{
+    width: 2.5rem;
+    height: 2.5rem;
+    stroke:#212529
+}
+
+.projects-flex-icons{
+    line-height: 2.5;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+
+}
+
+/*633*/
+@media (max-width: 633px){
+    .projects-icon{
+        width: 2.2rem;
+        height: 2.2rem;
+        stroke:#212529
+    }
+    
+    .projects-flex-icons{
+        line-height: 3;
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 6.6%;
+        max-width: 7%;
+        height: 2rem;
+    }
+
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .projects-icon {
+        width: 23px;
+        height: 23px;
+        flex-shrink: 0;
+        color: #555; 
+      }
+      
+      .projects-flex-icons .text {
+        line-height: 1.5;
+        font-size: 1.3rem;
+        white-space: normal;
+        color:#868e96
+      }
+      
+}
+
+/*620px*/
+@media (max-width: 620px){
+    .about-me h1{
+        font-size: 2.8rem;
+    }
+
+    .project-1-title{
+        font-size: 2.8rem;
+    }
+
+    .project-1-features-title{
+        font-size: 2.5rem
+    }
+
+    .project-1-p{
+        font-size: 1.5rem;
+    }
+
+    .project-1-title{
+        font-size: 2.5rem;
+    }
+
+    .published-section-title{
+        font-size: 2.8rem;
+    }
+
+    .project-4-title{
+        font-size: 1.5rem;
+    }
+
+    .project-4-title2{
+        font-size: 2rem;
+    }
+
+    .project-5-title{
+        font-size: 2.6rem;
+    }
+
+    .project-5-list-h3{
+        font-size: 2rem;
+    }
+
+    .perfil-img{
+        width: 28rem;
+        height: 28rem;
+        margin-bottom: 3rem;
+        margin-top: 0
+    }
+
+    header{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        column-gap: 0rem;
+        margin: 0
+    }
+    .section-grid{
+        display: block; 
+        padding: 11rem; 
+     }
+         
+section .section-card1{
+    margin: 0.6rem;
+    height: 33rem;
+    margin-bottom: 3rem
+}
+
+.card-h2{
+    font-size: 1.8rem;
+}
+
+.card-p{
+    font-size: 1.3rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+        
+section .section-card2{
+    margin: 0.6rem;
+    height: 31rem;
+    margin-bottom: 3rem
+}
+
+.projects-books-section2 .books-section-p-about{
+    font-size: 2.8rem
+}
+
+.section-img2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+
+.input-section #name{
+    padding-top: 1.1rem;
+    padding-bottom: 1.3rem;
+    padding-left: 0.3rem;
+    padding-right: 4rem;
+    border-radius: 0.5rem;
+    border: none
+}
+
+.input-section #name::placeholder{
+    text-align: start;
+    font-weight: 700
+}
+
+.input-section #email{
+    padding-top: 1.1rem;
+    padding-bottom: 1.3rem;
+    padding-left: 0.3rem;
+    padding-right: 4rem;
+    border-radius: 0.5rem;
+    border: none
+}
+
+.input-section #email::placeholder{
+    text-align: start;
+    font-weight: 700
+}
+
+.input-section #long-text{
+    padding: 6rem 13.4rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+}
+
+/*611*/
+@media (max-width: 611px){
+    .project-1-p{
+        font-size: 1.1rem;
+        margin-right: 7rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 6.8%;
+        max-width: 7%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .books-section1 .books-section-p-about{
+        font-size: 2rem
+    }
+}
+
+/*601*/
+@media (max-width: 601px){
+    .projects-books-section3 .books-section-p-about{
+        font-size: 2.7rem
+    }
+
+    .projects-books-section4 .books-section-p-about{
+        font-size: 2.7rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 6.9%;
+        max-width: 7%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .projects-books-section5 .books-section-p-about{
+       font-size: 2.8rem;
+    }
+}
+
+
+/*582*/
+@media (max-width: 582px){
+    .project-list-box{
+        padding: 0
+    }
+
+    .collaborating1-h3{
+        font-size: 2.1rem;
+    }
+
+    .last-box .colaborating-h2{
+        font-size: 2.1rem;
+    }
+
+    .colaborating-p{
+        font-size: 1.5rem;
+    }
+
+    .project-1-p{
+        font-size: 0.8rem;
+    }
+
+    .collaborating-h3{
+        font-size: 2.1rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7%;
+        max-width: 7%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .contact-card-box2{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        text-align: center;
+        row-gap: 2rem;
+    }
+
+    .contact-card-box4{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        text-align: center;
+        row-gap: 2rem;
+}
+    .contact-card5{
+        text-align: center;
+    }
+
+    .lets-connect-text{
+        font-size: 3rem;
+    }
+
+    .contact-card5-flex{
+        text-align: center;
+        justify-content: center;
+    }
+
+    .contact-card3-flex {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .contact-card2-flex{
+        text-align: center;
+        justify-content: center;
+    }
+
+    .contact-icon{
+        display: block;
+        height: 3.3rem;
+        width: 3.3rem
+    }
+
+    .contact-card4-flex .contact-icon{
+        display: none;
+    }
+
+    .colaborating-p{
+        font-size: 1.2rem;
+        margin-right: 20rem
+    }
+
+}
+
+
+/*573*/
+@media (max-width: 573px){
+    .books-section-box .books-section-p-about{
+        font-size: 2.2rem;
+        padding-left: 1rem
+    }
+
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7.2%;
+        max-width: 8%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+
+/*557*/
+@media (max-width: 557px){
+    .section-card1{
+        padding-bottom: 3rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7.4%;
+        max-width: 8%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+/*550*/
+@media (max-width: 550px){
+    header .header-text-box{
+        font-size: 2.6rem;
+        text-align: center;
+    }
+
+    .certifications-grid{
+        padding: 5rem;
+    }
+
+    .certification-card-1 h2{
+        font-size: 2.3rem;
+    }
+    
+    .certification-card-1 h3{
+        font-size: 1.8rem;
+    }
+
+    .certification-card-1 li{
+        font-size: 1.1rem;
+    }
+
+    .certification-card-2 h2{
+        font-size: 2.3rem;
+    }
+    
+    .certification-card-2 h3{
+        font-size: 1.8rem;
+    }
+
+    .certification-card-3-box{
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .certification-card-3 h2{
+        font-size: 2.3rem;
+    }
+    
+    .certification-card-3 h3{
+        font-size: 1.8rem;
+    }
+
+    .certifications-grid-4{
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .certification-card-4 h3{
+        font-size: 2rem;
+    }
+    
+    .certification-card-4 li{
+        font-size: 1.3rem;
+    }
+
+    .certification-card-5 h3{
+        font-size: 2rem;
+    }
+    
+    .certification-card-5 p{
+        font-size: 1.3rem;
+    }
+
+    .recognitions-section li{
+        font-size: 1.1rem;
+    }
+
+    .aside-about-h4{
+        font-size: 1.3rem;
+    }
+
+    .button-recognitions{
+        font-size: 1.5rem;
+    }
+
+    .certifications-title-btn{
+        font-size: 1.5rem;
+    }
+
+    .section-button{
+        font-size: 1.3rem
+    }
+
+    .aside-h1-about{
+        font-size: 2.5rem;
+    }
+
+    .about-section li{
+        font-size: 1.3rem;
+        padding-left: 0;
+    }
+
+    .academic-icon-flex-about ul{
+        text-align: right;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 2rem;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.2;
+        margin-top: 2rem;
+        padding: 2rem;
+    }
+
+
+    .perfil-img{
+        width: 26rem;
+        height: 26rem;
+    }
+     
+section .section-card1{
+    margin: 0.6rem;
+    height: 35rem;
+    margin-bottom: 3rem;
+}
+
+.card-h2{
+    font-size:  1.7rem;
+}
+
+.card-p{
+    font-size: 1.3rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+
+section .section-card2{
+    margin: 0.6rem;
+    height: 33rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+
+.books-section-title{
+    margin-top: 5rem/*MARGIN*/;
+    margin-bottom: 5rem;/*MARGIN*/
+    text-align: center;
+    font-size: 2.8rem;
+}
+
+.books-section1{
+    height: 60%
+}
+
+.books-section-h1{
+    font-size: 2.7rem;
+}
+
+.books-section-p{
+    font-size: 1.4rem;
+}
+
+.books-section-p strong{
+    font-size: 1.5rem;
+}
+
+.books-section-h1-2{
+    font-size: 2.7rem;
+}
+
+.books-section-p2{
+    font-size: 1.4rem;
+}
+
+.books-section-p2 strong{
+    font-size: 1.5rem;
+}
+
+.books-section2{
+    height: 60%
+}
+
+.aside-h1{
+    font-size: 2.8rem;
+}
+
+.books-section-btn{
+    font-size: 1.3rem;
+    padding: 0.5rem 5rem;
+}
+
+.books-section-btn2{
+    font-size: 1.5rem;
+    padding: 0.5rem 5rem;
+}
+
+.input-section #name{
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 0.7rem;
+    padding-right: 3rem;
+    border-radius: 0.5rem;
+    border: none
+}
+
+.input-section #name::placeholder{
+    text-align: start;
+    font-weight: 700
+}
+
+.input-section #email{
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 0.7rem;
+    padding-right: 3rem;
+    border-radius: 0.5rem;
+    border: none
+}
+
+.input-section #email::placeholder{
+    text-align: start;
+    font-weight: 700
+}
+
+.input-section #long-text{
+    padding: 5rem 12.7rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+}
+
+
+/*542*/
+@media (max-width: 542px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7.6%;
+        max-width: 8%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+
+
+/*529*/
+@media (max-width: 529px){
+    .project-1-p{
+        font-size: 0.4rem;
+        margin-right: 5rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7.8%;
+        max-width: 8%;
+        height: 2rem;
+    }
+
+    .github-btn{
+        height: 5rem;
+        width: 5rem;
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+        margin-top: 0.3rem
+    }
+    
+    .linkedin-btn{
+        margin-top: 0.3rem;
+        height: 5rem;
+        width: 5rem;
+        margin-bottom: 2rem
+    }
+
+    .recognitions-section-2-box{
+        padding: 0.1rem
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+/*520*/
+@media (max-width: 520px){
+    .nav-menu-box ul{
+        font-size: 1.2rem;
+    }
+
+    .perfil-img{
+        width: 24rem;
+        height: 24rem;
+    }
+
+    .projects-books-section5 .books-section-p-about{
+        font-size: 2.7rem
+    }
+        
+section .section-card1{
+    margin: 0.6rem;
+    height: 35rem;
+    margin-bottom: 3rem;
+}
+
+.card-h2{
+    font-size: 2rem;
+}
+
+.card-p{
+    font-size: 1.2rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+        
+section .section-card2{
+    margin: 0.6rem;
+    height: 35rem;
+    margin-bottom: 3rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+
+.recognitions-section-2-box{
+    padding: 0.1rem
+}
+}
+
+
+/*518*/
+@media (max-width: 518px){
+    .nav-menu-box ul{
+        font-size: 1.2rem;
+    }
+
+    .perfil-img{
+        width: 24rem;
+        height: 24rem;
+    }
+      
+section .section-card1{
+    margin: 0rem;
+    height: 34rem;
+    margin-bottom: 3rem;
+}
+
+.card-h2{
+    font-size: 1.9rem;
+}
+
+.card-p{
+    font-size: 1.1rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 35%;
+    object-fit: cover;
+}
+
+        
+section .section-card2{
+    margin: 0.6rem;
+    height: 32rem;
+    margin-bottom: 1rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 35%;
+    object-fit: cover;
+}
+
+.learn-more{
+    font-size: 1.1rem;
+}
+}
+
+/*515*/
+@media (max-width: 515px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 8%;
+        max-width: 8%;
+        height: 2rem;
+    }
+
+    .perfil-img-about{
+        width: 27rem;
+        height: 27rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease
+    }
+
+    .about-me{
+        padding: 3rem
+    }
+
+    .about-me-p{
+        font-size: 0.8rem;
+    }
+
+    .about-header h2{
+        font-size: 4.6rem;
+    }
+
+    .section-title-about-btn{
+        font-size: 1.5rem;
+    }
+
+    .books-section-p-about{
+        font-size: 1.7rem;
+        padding: 1rem
+    }
+
+    .certifications-title-btn{
+        font-size: 1.5rem;
+    }
+
+    .recognitions-section-2{
+        padding: 0.1rem
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .books-section1 .books-section-p-about{
+        font-size: 1.7rem
+    }
+
+    .colaborating-p{
+        margin-right: 2rem;
+    }
+
+}
+
+
+/*502*/
+@media (max-width: 502px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 8.3%;
+        max-width: 9%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+
+/*500*/
+@media (max-width: 500px){
+    .about-me h1{
+        font-size: 2.5rem;
+    }
+
+    .projects-books-section4 .books-section-p-about{
+        font-size: 2.4rem
+    }
+
+    .project-1-title{
+        font-size: 2.2rem;
+    }
+
+    .project-1-features-title{
+        font-size: 1.9rem;
+    }
+
+    .project-1-p{
+        font-size: 0.1rem;
+    }
+
+    .project-1-box{
+        padding: 3rem
+    }
+
+    .project-2-box h2{
+        font-size: 2.3rem
+    }
+
+    .projects-books-section2 .books-section-p-about{
+        font-size: 2.5rem
+    }
+    
+
+    .project-2-box{
+        padding-left: 4rem
+    }
+
+    .published-section-title{
+        font-size: 2.2rem;
+    }
+
+    .published-section-box ul li{
+        font-size: 1rem;
+    }
+
+    .published-section-box a{
+        font-size: 1rem
+    }
+
+    .project-5-title{
+        font-size: 2.2rem
+    }
+
+    .project-5-list-h3{
+        font-size: 1.8rem;
+    }
+
+    .collaborating-title{
+        font-size: 2.2rem;
+    }
+
+    .books-section-box {
+        font-size: 1.8rem;
+        padding-left: 1rem
+    }
+
+    .books-section-p-about{
+        font-size: 5rem;
+    }
+
+    .section-grid{
+        display: block; 
+        padding: 8rem; 
+     }
+
+            
+section .section-card1{
+    margin: 0.6rem;
+    height: 31rem;
+    margin-bottom: 3rem
+}
+
+.card-h2{
+    font-size: 1.8rem;
+}
+
+.card-p{
+    font-size: 1.3rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+
+section .section-card2{
+    margin: 0.6rem;
+    height: 31rem;
+    margin-bottom: 3rem
+}
+
+.section-img2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+}
+
+/*485*/
+@media (max-width: 485px){
+    .projects-books-section3 .books-section-p-about{
+        font-size: 2.6rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 8.5%;
+        max-width: 9%;
+        height: 2rem;
+    }
+
+    .i-cover-box{
+        padding-bottom: 3rem
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .section-title-about-btn{
+        margin-top: 0
+    }
+
+    .about-me .about-me-p{
+        margin-bottom: 3rem
+    }
+
+    .certifications-btn-box .certifications-title-btn{
+        margin-top: 0
+    }
+
+    .about-section .aside-about-h4{
+        margin-bottom: 0
+    }
+
+    .certifications-grid-4 .certification-card-4{
+        margin-top: 0
+    }
+    
+    .certification-card-3-box .certification-card-3{
+        margin-bottom: 0
+    }
+
+    .button-recognitions-box .button-recognitions{
+        margin-top: 0
+    }
+
+    .certifications-grid-4 .certification-card-5{
+        margin-bottom: 0
+    }
+
+}
+
+
+/*477*/
+@media (max-width: 477px){
+
+    .section-grid{
+        display: block; 
+        padding: 6rem; 
+     }
+
+section .section-card1{
+    margin: 0.6rem;
+    height: 33rem;
+    margin-bottom: 3rem;
+}
+
+.recognitions-section-2-box{
+    padding: 0.1rem;
+}
+
+.i-cover-box{
+    padding-bottom: 3rem
+}
+
+.card-h2{
+    font-size: 1.6rem;
+}
+
+.card-p{
+    font-size: 1.4rem;
+}
+
+.section-img1{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+section .section-card2{
+    margin: 0.6rem;
+    height: 33rem;
+    margin-bottom: 3rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+
+.collaborating1-h3{
+    font-size: 2rem
+}
+
+.colaborating-p{
+    font-size: 1.3rem;
+}
+
+.last-box .colaborating-h2{
+    font-size: 2rem
+}
+
+.input-section #name{
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 0.7rem;
+    padding-right: 3rem;
+    border-radius: 0.5rem;
+    border: none
+}
+
+.input-section #name::placeholder{
+    text-align: start;
+    font-weight: 700
+}
+
+.input-section #email{
+    padding-top: 0.9rem;
+    padding-bottom: 0.9rem;
+    padding-left: 0.7rem;
+    padding-right: 3rem;
+    border-radius: 0.5rem;
+    border: none
+}
+
+.input-section #email::placeholder{
+    text-align: start;
+    font-weight: 700
+}
+
+.input-section #long-text{
+    padding: 5rem 12.7rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+}
+
+
+/*473*/
+@media (max-width: 473px){
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 8.8%;
+        max-width: 9%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .about-me{
+        padding: 0.1rem
+    }
+
+    .about-me .about-me-h1{
+        margin-top: 5rem;/*MARGIN*/
+        color: #212529;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.2;
+        margin-top: 2rem;
+        padding: 1.7rem;
+    }
+}
+
+
+/*460*/
+@media (max-width: 460px){
+    .brand-logo{
+        padding-left: 1rem;
+        font-size: 2rem
+    }
+
+    nav {
+        height: 6rem;
+        position: fixed;
+        top: 0;
+        display: grid;
+        column-gap: 4rem;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        background-color: rgba(25, 80, 131, 0.9);
+        color: var(--soft-blue);
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
+        font-size: 2rem;
+    }
+
+    .section-grid{
+        display: block; 
+        padding: 7rem; 
+     }
+
+     header .header-text-box{
+        font-size: 2.6rem;
+        text-align: center;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 1.8rem;
+    }
+
+    .perfil-img{
+        width: 26rem;
+        height: 26rem;
+    }
+      
+section .section-card1{
+    margin: 0.6rem;
+    height: 33rem;
+    margin-bottom: 3rem;
+}
+
+.card-h2{
+    font-size: 1.6rem;
+}
+
+.card-p{
+    font-size: 1.4rem;
+}
+
+.projects-books-section5 .books-section-p-about{
+    font-size: 2.5rem
+}
+
+.section-img1{
+    width: 100%;
+    height: 34%;
+    object-fit: cover;
+}
+section .section-card2{
+    margin: 0.6rem;
+    height: 33rem;
+    margin-bottom: 3rem;
+}
+
+.section-img2{
+    width: 100%;
+    height: 40%;
+    object-fit: cover;
+}
+}
+
+/*457*/
+@media (max-width: 457px){
+    .project-1-p{
+        font-size: 0.3rem;
+        margin-right: 5rem
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 9%;
+        max-width: 10%;
+        height: 2rem;
+    }
+
+    .about-me{
+        padding: 0.1rem
+    }
+
+    .about-me .about-me-h1{
+        margin-top: 5rem;/*MARGIN*/
+        color: #212529;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.2;
+        margin-top: 2rem;
+        padding: 1.7rem;
+    }
+
+    .recognitions-section-2-box{
+        padding: 0.1rem
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(93%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+    .section-grid{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 6rem;
+        align-items: center;
+     }
+
+     .section-img1{
+        width: 100%;
+        height: 40%;
+        object-fit: cover;
+    }
+
+    .lets-connect-text h1{
+        padding-top: 7rem;/*MARGIN*/
+        text-align: center;
+        font-size: 2rem;
+        color: #e9ecef
+    }
+
+    .connect-section-text p{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    font-size: 1.2rem;
+    font-weight: 650;
+    color: #e9ecef
+}
+
+.input-section #long-text{
+    padding: 5rem 8rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.recognitions-section-2-box{
+    padding: 0.1rem
+}
+
+.input-section #name{
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    padding-left: 0.5rem;
+    padding-right: 1.1rem;
+    border-radius: 1rem;
+    border: none
+}
+
+
+.input-section #email{
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    padding-left: 0.5rem;
+    padding-right: 1rem;
+    border-radius: 1rem;
+    border: none
+}
+
+.projects-books-section2 .books-section-p-about{
+    font-size: 2rem;
+    padding-left: 3rem
+}
+
+}
+
+@media (max-width: 446px){
+    .section-card1{
+        padding-bottom: 3rem
+    }
+
+    .section-grid{
+        display: block; 
+        padding: 4rem; 
+     }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7.7%;
+        max-width: 8%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(55%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+@media (max-width: 427px){
+    .section-card1{
+        padding-bottom: 8rem
+    }
+
+    .recognitions-section-2-box{
+        padding: 0.1rem
+    }
+
+    .about-me{
+        padding: 0.1rem
+    }
+
+    .about-me .about-me-h1{
+        margin-top: 5rem;/*MARGIN*/
+        color: #212529;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.2;
+        margin-top: 2rem;
+        padding: 1.7rem;
+    }
+
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 7.9%;
+        max-width: 8%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(55%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+@media (max-width: 417px){
+    .project-1-box .project-1-p{
+        font-size: 1.2rem;
+    }
+
+    .project-1-title{
+        font-size: 2.3rem;
+    }
+
+    .project-5-list-p{
+        font-size: 1.2rem;
+    }
+
+    .colaborating-p{
+        margin-right: 2rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 8.1%;
+        max-width: 9%;
+        height: 2rem;
+    }
+    
+.btn{
+       width: 1.9rem;
+       height: 1.9rem;
+       transform: translateY(-50%);
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(55%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+}
+
+
+/*410*/
+@media (max-width: 410px){
+    .nav{
+        height: 6rem;
+        position: fixed;
+        top: 0;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        background-color: rgba(25, 80, 131, 0.9);
+        color: var(--soft-blue);
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.4);
+        padding: 10rem; 
+    }
+
+    .about-me{
+        padding: 0.1rem
+    }
+
+    .about-me .about-me-h1{
+        margin-top: 5rem;/*MARGIN*/
+        color: #212529;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.2;
+        margin-top: 2rem;
+        padding: 1.7rem;
+    }
+
+    .perfil-img-about{
+        width: 24rem;
+        height: 24rem;
+        border-radius: 50%;
+        background-color: #000;
+        padding: 1rem;
+        border: 1rem #1864ab solid;
+        transition: all 0.3s ease;
+        margin-bottom: 5rem
+    }
+
+    .about-me{
+        padding: 0.5rem
+    }
+
+    .section-title-about-btn{
+        font-size: 1.3rem;
+    }
+
+    .books-section-p-about{
+        font-size: 1.5rem;
+    }
+
+    .books-section-btn{
+        font-size: 1.1rem;
+    }
+
+    .section-button{
+        font-size: 1.3rem;
+    }
+
+    .aside-about-h4{
+        font-size: 1rem;
+    }
+
+    .certifications-title-btn{
+        font-size: 1.3rem
+    }
+
+    .certification-card-1 h2{
+        font-size: 2.3rem;
+    }
+
+    .certification-card-1 h3{
+        font-size: 1.7rem;
+    }
+
+    .certification-card-2 h3{
+        font-size: 2.3rem;
+    }
+
+    .certification-card-2 li{
+        font-size: 1.1rem;
+    }
+
+    .certification-card-3 h3{
+        font-size: 2.3rem;
+    }
+
+    .certification-card-3 li{
+        font-size: 1.3rem;
+    }
+
+    .certification-card-5{
+        padding-bottom: none
+    }
+
+    .button-recognitions{
+        font-size: 1.3rem;
+    }
+
+    .recognitions-section {
+        padding: 0.1rem
+    }
+
+    .button-recognitions-2{
+        font-size: 1.3rem;
+    }
+
+    .recognitions-section{
+        padding: 0.1rem
+    }
+
+    .i-cover-box{
+        padding-bottom: 2rem
+    }
+
+    .i-cover-box h1{
+        font-size: 2rem;
+    }
+
+    .i-cover-box li{
+        font-size: 1rem;
+    }
+
+    .recognitions-section-2-box{
+        padding: 0.1rem
+    }
+
+    .im-avaible-box h1{
+        font-size: 2rem;
+    }
+
+    .im-avaible-box li{
+        font-size: 1rem;
+    }
+
+    #interruptor {
+        position: relative;
+        padding: 0.2rem;
+        margin: 1rem; /*margen*/
+        width: 9%;
+        max-width: 10%;
+        height: 1.7rem;
+    }
+    
+.btn{
+       width: 1.5rem;
+       height: 1.6rem;
+       transform: translateY(-50%);
+       padding: 0.5rem
+    }
+    
+body.fondo-oscuro #btn {
+       transform: translate(115%, -50%);
+    }
+    
+body.fondo-claro #btn {
+       transform: translate(-8%, -50%);
+    }
+
+
+    .brand-logo h1 {
+       color: red
+    }
+    
+    .section-grid{
+        display: block; 
+        padding: 3rem; 
+     }
+ 
+.section-img1{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+
+.projects-books-section5 .books-section-p-about{
+    font-size: 2.3rem
+}
+
+     header .header-text-box{
+        font-size: 2.6rem;
+        text-align: center;
+    }
+
+    .header-text-box h3{
+        color: #dee2e6;
+        font-size: 1.8rem;
+    }
+
+    .project-2-p{
+        margin-right: 3rem;
+        font-size: 1.1rem
+    }
+
+    .perfil-img{
+        width: 20rem;
+        height: 20rem;
+    }
+
+    .about-me{
+        padding: 0.01rem
+    }
+
+    .line-break-about-me-p{
+        display: block;
+        height: 3rem;
+    }
+
+    .about-me .about-me-h1{
+        margin-top: 5rem;/*MARGIN*/
+        color: #212529;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        line-height: 1.2;
+        margin-top: 2rem;
+        padding: 1.7rem;
+    }
+
+    section .section-card1{
+        margin: 0.6rem;
+        height: 30rem;
+        margin-bottom: 3rem;
+    }
+    
+    .card-h2{
+        font-size: 1.6rem;
+    }
+    
+    .card-p{
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 396px){
+    .section-img1{
+        width: 100%;
+        height: 40%;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 400px){
+
+    .line-break-about-me-p{
+        display: block;
+        height: 3rem;
+    }
+    
+    .about-me .about-me-h1{
+        margin-top: 5rem;/*MARGIN*/
+        color: #212529;
+    }
+
+    .about-me .about-me-p{
+        color: #868e96;
+        font-size: 1.1rem;
+        line-height: 1.5;
+        margin-top: 2rem;
+        box-shadow: none;
+        padding: 0.1rem
+    }
+}
+
+
