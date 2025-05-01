@@ -2,16 +2,6 @@
 
 This is the personal portfolio website of Jide Asaju, a Cybersecurity Researcher and Data Scientist. The site showcases his expertise, projects, publications, and provides a way to connect with him.
 
-## Table of Contents
-
-* [Overview](#overview)
-* [Key Features](#key-features)
-* [Technologies Used](#technologies-used)
-* [File Structure](#file-structure)
-* [Getting Started](#getting-started)
-* [Contact](#contact)
-* [License](#license)
-
 ## Overview
 
 The website serves as a central hub for individuals and organizations interested in Jide Asaju's work and expertise in cybersecurity, data science, and UX research. It provides information about his background, featured projects, published books, and academic work. The site also includes a contact form for inquiries and links to his professional profiles.
@@ -30,10 +20,9 @@ The website serves as a central hub for individuals and organizations interested
 
 ## Technologies Used
 
-* **HTML:** Provides the structural foundation of the website.
-* **CSS:** Styles the website, including layout, typography, and visual elements. The project utilizes both `index.css` for general styling and `queries.css` for responsive design.
-* **JavaScript:** Likely used for interactive elements such as the light/dark mode toggle (`index.js`).
-* **Google Fonts:** Imports custom fonts (`Inter`, `Merriweather`, `Montserrat`, `Pacifico`, `Rubik`) to enhance the website's typography.
-* **SVG Icons:** Uses Scalable Vector Graphics for various icons throughout the website, ensuring scalability and visual clarity.
+* **HTML:** 
+* **CSS:**
+* **JavaScript:**
+* **Google Fonts:** (`Inter`, `Merriweather`, `Montserrat`, `Pacifico`, `Rubik`)
 
 ## File Structure
